@@ -56,7 +56,7 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 ### ⚙️ Tech Stack Icons
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,php,mysql,react,nextjs,redux,tailwind,bootstrap,d3,git,github,webpack,babel,npm,yarn,vite,vercel,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,php,mysql,react,nextjs,redux,tailwind,bootstrap,d3,kotlin,git,github,bash,webpack,babel,npm,vercel,vite,yarn,vscode,figma,postman" />
 </p>
 
 ---
